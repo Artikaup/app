@@ -1,0 +1,27 @@
+body {
+  background: #2aa;
+}
+
+
+.dropdown-item:hover{
+  background: #2aa !important;
+}
+
+.nav-link:hover {
+  color: #2aa !important;
+}
+
+.btn{
+  border-color: #2aa !important;
+  color: #2aa !important;
+}
+
+.btn:hover {
+  background: #2aa !important;
+  color: #fff !important;
+}
+
+.navbar-toggler{
+outline: none !important;
+border-color: #2aa !important;
+}
